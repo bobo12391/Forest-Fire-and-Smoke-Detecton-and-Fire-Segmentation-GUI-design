@@ -1,12 +1,18 @@
 ## This is a forest fire and smoke detection and fire segmentation system which is based on the YOLOv5 and UNet.
 
 ## Environment
-Test on the ubuntu 20.04/Windows10
+Test on the ubuntu 20.04
+```markdown
+torch = '1.7.1+cu110'
+torchvision = '0.8.2+cu110'
+
 
 ## Step 1
 Installation
 ```markdown
 git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_segmentation_system-.git
+```
+
 
 
 ### Markdown

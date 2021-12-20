@@ -1,4 +1,8 @@
-## This is a forest fire and smoke detection and fire segmentation system which is based on the yolov5 and unet. If you want to train your own yolov5 model, please click [here](https://github.com/ultralytics/yolov5) to learn more details. 
+## This is a forest fire and smoke detection and fire segmentation system which is based on the yolov5 and unet. 
+
+If you want to train your own yolov5 model, please click [here](https://github.com/ultralytics/yolov5) to learn more details. 
+
+If you want to train your own unet model, please click [here](U-Net/readme.md) to learn more details. 
 
 ## Environment
 Test on the ubuntu 20.04
@@ -10,7 +14,7 @@ torchvision = '0.8.2+cu110'
 
 ## Installation
 ```markdown
-git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_segmentation_system-.git
+git clone https://github.com/bobo12391/Forest-Fire-and-Smoke-Detecton-and-Fire-Segmentation-GUI-design.git
 ```
 
 ## Pre-trained model

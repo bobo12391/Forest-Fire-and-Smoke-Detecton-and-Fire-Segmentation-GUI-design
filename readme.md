@@ -8,8 +8,7 @@ torchvision = '0.8.2+cu110'
 ```
 
 
-## Step 1
-Installation
+## Installation
 ```markdown
 git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_segmentation_system-.git
 ```
@@ -17,7 +16,12 @@ git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_
 ## pre-trained model
 link: https://pan.baidu.com/s/1vhItuWMZ9gC_mvUTPGHzew  code: h2wf
 
-### Markdown
+### Quick start
+```markdown
+cd forest _fire_and_smoke_detection_and_fire_segmentation_system
+python gui2.py
+```
+## GUI
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

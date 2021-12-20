@@ -3,8 +3,8 @@
 ## Preparation
 
 ### My datasets(a little small, so the accuracy is not great):
-1. Find the "train.zip" in the data/train
-2. Extract "train.zip" in data/train. You can see that the folder structure is like "data/train/000.jpg".
+1. Find the "train.zip" in the U-Net/data/train
+2. Extract "train.zip" in U-Net/data/train. You can see that the folder structure is like "U-Net/data/train/000.jpg".
 3. Then delete the "readme.md" and "train.zip"
 4. Process the followings:
 
@@ -15,9 +15,9 @@ python main.py --train 1
 ### Train your own datasets
 Just keep the datasets structure as following like:
 ```markdown
-Original images: data/train/000.jpg
+Original images: U-Net/data/train/000.jpg
   
-Mask images: data/train/000_mask.jpg
+Mask images: U-Net/data/train/000_mask.jpg
 ```
 For example:
  

@@ -14,7 +14,8 @@ Installation
 git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_segmentation_system-.git
 ```
 
-
+## pre-trained model
+link: https://pan.baidu.com/s/1vhItuWMZ9gC_mvUTPGHzew  code: h2wf
 
 ### Markdown
 

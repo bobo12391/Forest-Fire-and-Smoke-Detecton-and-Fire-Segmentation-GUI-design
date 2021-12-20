@@ -5,6 +5,7 @@ Test on the ubuntu 20.04
 ```markdown
 torch = '1.7.1+cu110'
 torchvision = '0.8.2+cu110'
+```
 
 
 ## Step 1

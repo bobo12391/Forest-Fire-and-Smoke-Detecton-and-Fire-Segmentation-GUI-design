@@ -13,10 +13,10 @@ torchvision = '0.8.2+cu110'
 git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_segmentation_system-.git
 ```
 
-## pre-trained model
+## Pre-trained model
 link: https://pan.baidu.com/s/1vhItuWMZ9gC_mvUTPGHzew  code: h2wf
 
-## Quick start
+## Quick Start
 ```markdown
 cd forest _fire_and_smoke_detection_and_fire_segmentation_system
 python gui2.py
@@ -24,6 +24,16 @@ python gui2.py
 ## GUI Interface
 
 ![gui.png](gui.png)
+
+### Fire Fire and Smoke Image Detection(You can also select a video to detect)
+![detect.png](detect.png)
+
+### Fire Image Segmentation
+![segmentation.png](segmentation.png)
+
+### Camera Demo
+![camera.png](camera.png)
+
 
 ```markdown
 Syntax highlighted code block

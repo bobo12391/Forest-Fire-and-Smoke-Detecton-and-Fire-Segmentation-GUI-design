@@ -1,5 +1,8 @@
 ## This is a forest fire and smoke detection and fire segmentation system which is based on the YOLOv5 and UNet.
 
+## Environment
+Test on the ubuntu 20.04/Windows10
+
 ## Step 1
 Installation
 ```markdown

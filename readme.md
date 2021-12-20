@@ -23,7 +23,7 @@ python gui2.py
 ```
 ## GUI Interface
 
-[gui.png](gui.png)
+![gui.png](gui.png)
 
 ```markdown
 Syntax highlighted code block

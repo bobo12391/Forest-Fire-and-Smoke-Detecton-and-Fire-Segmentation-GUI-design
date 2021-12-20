@@ -28,15 +28,17 @@ python gui2.py
 
 ### Fire Fire and Smoke Image Detection(You can also select a video to detect)
 
-![detect.png](detect.png)
+[detect.png](detect.png)
 
 
 ### Fire Image Segmentation
 
-![segmentation.png](segmentation.png)
+[segmentation.png](segmentation.png)
+
 
 ### Camera Demo
-![camera.png](camera.png)
+
+[camera.png](camera.png)
 
 
 ```markdown

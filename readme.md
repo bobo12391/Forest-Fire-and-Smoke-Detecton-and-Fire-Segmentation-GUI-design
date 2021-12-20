@@ -23,17 +23,17 @@ python gui2.py
 ```
 ## GUI Interface
 
-![gui.png](gui.png)
+![gui](gui.png)
 
 
 ### Fire Fire and Smoke Image Detection(You can also select a video to detect)
 
-[detect.png](detect.png)
+[detect](detect.png)
 
 
 ### Fire Image Segmentation
 
-[segmentation.png](segmentation.png)
+[segmentation](segmentation.png)
 
 
 ### Camera Demo

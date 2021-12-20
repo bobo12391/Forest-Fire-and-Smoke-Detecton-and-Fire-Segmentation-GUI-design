@@ -1,4 +1,4 @@
-## This is a forest and fire detection and fire segmentation system which is based on the YOLOv5 and UNet.
+## This is a forest fire and smoke detection and fire segmentation system which is based on the YOLOv5 and UNet.
 
 You can use the [editor on GitHub](https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_segmentation_system-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

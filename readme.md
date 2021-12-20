@@ -21,9 +21,9 @@ link: https://pan.baidu.com/s/1vhItuWMZ9gC_mvUTPGHzew  code: h2wf
 cd forest _fire_and_smoke_detection_and_fire_segmentation_system
 python gui2.py
 ```
-## GUI
+## GUI Interface
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](src)
 
 ```markdown
 Syntax highlighted code block
@@ -40,7 +40,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![gui.png](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).

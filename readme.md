@@ -16,14 +16,14 @@ git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_
 ## pre-trained model
 link: https://pan.baidu.com/s/1vhItuWMZ9gC_mvUTPGHzew  code: h2wf
 
-### Quick start
+## Quick start
 ```markdown
 cd forest _fire_and_smoke_detection_and_fire_segmentation_system
 python gui2.py
 ```
 ## GUI Interface
 
-![Image](src)
+[Image](src)
 
 ```markdown
 Syntax highlighted code block

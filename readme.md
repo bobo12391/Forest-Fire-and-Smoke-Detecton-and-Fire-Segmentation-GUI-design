@@ -15,6 +15,7 @@ git clone https://github.com/bobo12391/forest_fire_and_smoke_detection_and_fire_
 
 ## Pre-trained model
 link: https://pan.baidu.com/s/1vhItuWMZ9gC_mvUTPGHzew  code: h2wf
+You can put it in the root directory.
 
 ## Quick Start
 ```markdown
